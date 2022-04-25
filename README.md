@@ -1,1 +1,3 @@
 # deneme github
+
+yerel deneme.
