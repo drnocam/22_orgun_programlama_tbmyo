@@ -1,0 +1,17 @@
+for 
+in
+True
+False
+if
+else
+elif
+pass
+break 
+import
+while
+continue
+def
+return
+global
+from
+as
